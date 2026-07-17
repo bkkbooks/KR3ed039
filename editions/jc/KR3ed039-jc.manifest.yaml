@@ -26,12 +26,12 @@ assets:
   - {seq: 6, filename: KR3ed039_006-jc.yaml, hash: 'sha256:65e3005998852a60279750af94ca39a2fbcf6503435f0faa6f8a855addc113ab'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed039_000-jc.markers.yaml, hash: 'sha256:c0b495fc4f772073b3fe3952a63bf84a12ab4d4b06377bd9cde976e35802a0be'}
-  - {seq: 1, role: markers, filename: assets/KR3ed039_001-jc.markers.yaml, hash: 'sha256:ac55da70ac808f5278d016043fd2ad04a96da5d894fa5ea2e7462f1ef704f724'}
-  - {seq: 2, role: markers, filename: assets/KR3ed039_002-jc.markers.yaml, hash: 'sha256:3a95360cf6c895643d7331dcd8012d2147c6892f0969e7aac4b0070673a6dbf5'}
-  - {seq: 3, role: markers, filename: assets/KR3ed039_003-jc.markers.yaml, hash: 'sha256:e53dd19359de4174e576ddd6d0c50ca1e64fd455f87361dc669057bd31d415e4'}
-  - {seq: 4, role: markers, filename: assets/KR3ed039_004-jc.markers.yaml, hash: 'sha256:3d820da8d963523089911f704834c018bfb723ab18593edb90baaf9b467dd852'}
-  - {seq: 5, role: markers, filename: assets/KR3ed039_005-jc.markers.yaml, hash: 'sha256:507cd2098e9d10d7f58d50e9c20153e0b6241a791101234b3e4a55b052bb5b3b'}
-  - {seq: 6, role: markers, filename: assets/KR3ed039_006-jc.markers.yaml, hash: 'sha256:72709c02e249d4eefc244fc1c7599bf953c5b4154c5495d81186e91ce3e603ce'}
+  - {seq: 1, role: markers, filename: assets/KR3ed039_001-jc.markers.yaml, hash: 'sha256:8c4b7e6fe5b6f55a4eee7174b9a61153846193ef1da9d570ca115c09b5c73d48'}
+  - {seq: 2, role: markers, filename: assets/KR3ed039_002-jc.markers.yaml, hash: 'sha256:27f8f5baba0c120c377cd13d00f99a9b66318edea6d7156520089253736bea7e'}
+  - {seq: 3, role: markers, filename: assets/KR3ed039_003-jc.markers.yaml, hash: 'sha256:1c79b05d73915a0455d6237f2b0fb28e6d26970328ea50ecf02d7b32c3e4f974'}
+  - {seq: 4, role: markers, filename: assets/KR3ed039_004-jc.markers.yaml, hash: 'sha256:482651edc0aeee16bfd79f5d7775bd15c779508528d0c418d34bfded7f8b6656'}
+  - {seq: 5, role: markers, filename: assets/KR3ed039_005-jc.markers.yaml, hash: 'sha256:55f5371644aa327ce75f8c6aa656090a4ecd412d50fea6ae41ba9fc742c8a4f9'}
+  - {seq: 6, role: markers, filename: assets/KR3ed039_006-jc.markers.yaml, hash: 'sha256:edb410e1f978390c455cb1b1b688b51e3532e3a205e55f126f46a2d455418ce3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -8533,4 +8533,4 @@ table_of_contents:
   label: 鹿䘒鹿血鹿角膠鹿茸麋茸豬脊髓總考
   type: section
   level: 3
-hash: sha256:6e555f4bc387a3dadc8df41c562f425bd50cd5d896e13173bda0d821937e96e9
+hash: sha256:3dd8ccb24b0b8f15bda5197f3b2e8f7fa105bd0251fb1b496ae1b76a2e01c944
